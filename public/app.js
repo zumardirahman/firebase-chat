@@ -1,11 +1,14 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyB5HblIigjoIywArF3NGLwl_2P-vFJptI4",
-    authDomain: "zum-pr0ject.firebaseapp.com",
-    databaseURL: "https://zum-pr0ject-default-rtdb.asia-southeast1.firebasedatabase.app/",
-    projectId: "zum-pr0ject",
-    storageBucket: "zum-pr0ject.appspot.com",
-    messagingSenderId: "69901613837",
-    appId: "1:69901613837:web:0e388a6ea02542d1864e44",
+    
+    // PASTE YOUR CONFIG FIREBASE HERE
+
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "6901613837",
+    appId: "",
 };
 
 firebase.initializeApp(firebaseConfig);
